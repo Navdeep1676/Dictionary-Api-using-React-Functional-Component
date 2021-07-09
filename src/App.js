@@ -32,6 +32,8 @@ function App() {
     <div className="container">
       <div className="row">
         <div className="col-12">
+              <h1 className='fw-bold text-center text-white text-decoration-underline'><i>Dictionary</i></h1>
+
           <form className="my-4">
             <input
               type="text"
